@@ -1,0 +1,10 @@
+1) Hello
+2) Hi
+3) Good morning
+4) Good night
+5) Greetings
+6) Hola
+7) Ciao
+8) Halo
+9) Heya
+10) Hey
